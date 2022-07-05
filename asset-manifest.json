@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-project1-codle/static/css/main.e710fad3.css",
-    "main.js": "/react-project1-codle/static/js/main.5cd7c565.js",
+    "main.js": "/react-project1-codle/static/js/main.c9ec62c6.js",
     "static/js/787.a3429872.chunk.js": "/react-project1-codle/static/js/787.a3429872.chunk.js",
     "index.html": "/react-project1-codle/index.html",
     "main.e710fad3.css.map": "/react-project1-codle/static/css/main.e710fad3.css.map",
-    "main.5cd7c565.js.map": "/react-project1-codle/static/js/main.5cd7c565.js.map",
+    "main.c9ec62c6.js.map": "/react-project1-codle/static/js/main.c9ec62c6.js.map",
     "787.a3429872.chunk.js.map": "/react-project1-codle/static/js/787.a3429872.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e710fad3.css",
-    "static/js/main.5cd7c565.js"
+    "static/js/main.c9ec62c6.js"
   ]
 }
