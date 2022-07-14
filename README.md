@@ -24,7 +24,7 @@ The actual number is 2 0 0, and the first box should have been grey instead of y
 <br>
 <br>
 ## What would I do differently or to improve
-1. I am not too happy about using "refreshing" the page to reset the game after its completion. I would like to implement the changing of states to reset the game instead. Given the structure of my components, Given that my reset Modal is in a separate (Child) component and that I have learnt that we can pass functions as props, that would allow me to reset my game from the Modal component.
+1. I am not too happy about using "refreshing" the page to reset the game after its completion. I would like to implement the changing of states to reset the game instead. My reset Modal is in a separate (Child) component. I have learnt that we can pass functions as props, and that would allow me to reset my game from the Modal component by "resetting" the states.
 2. Make the game more complete, to store the number of games played, streaks, histogram of number of attempts required, etc.
 3. Implement a keyboard like Wordle has, so that Codle can be played smoothly on mobile devices as well.
 4. Change the way the grid was created. Presently, I am using a form of `<input type="number">`. I want to experiment creating the grid using `<div>` instead to allow smooth typing; whereby keying in a number will automatically change the focus to the next box, unless I discover a method smoothly change focus with `<input type="number">`.
